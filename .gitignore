@@ -1,0 +1,6 @@
+# jupyter notebook manual saves
+.ipynb_checkpoints/
+
+# generated files
+*.json
+.idea/
